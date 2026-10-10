@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiorwlock",
+  "versions": [
+    {
+      "commit": "420dd9dcc0b379aade93d88cbdc774ff52cdb040",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:06:48.399930+00:00"
+    }
+  ]
+}
